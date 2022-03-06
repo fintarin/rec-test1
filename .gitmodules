@@ -1,0 +1,3 @@
+[submodule "rec-test2"]
+	path = rec-test2
+	url = https://github.com/fintarin/rec-test2.git
